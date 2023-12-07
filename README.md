@@ -4,7 +4,7 @@
 
 ## Внешний вид
 
-![project-screen](project-image.jpg)
+![project-screen](project_image.jpg)
 
 ## Выполненные задачи:
 - Реализация frontend-части SPA в соответствии с техническим заданием и макетом;

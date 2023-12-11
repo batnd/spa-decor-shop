@@ -24,5 +24,6 @@
 ## Используемые технологии:
 * Angular 16 (HTML, SCSS, TypeScript)
 * RxJS
+* MongoDB
 * JWT-Авторизация
 * Используется заранее подготовленный backend на node.js
